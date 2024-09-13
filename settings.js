@@ -33,10 +33,10 @@ global.wm = "Kerm Bug Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 
 //custom prefix
-global.prefa = ['','!','.']
+global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
